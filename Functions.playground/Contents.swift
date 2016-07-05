@@ -41,5 +41,5 @@ func getAgeAndCongratulate(name: String) -> Int {
     return age
 }
 
-let friend2 = "Pete"
+let friend2 = "Peterrrr"
 var friend2Age = getAgeAndCongratulate(friend2)
